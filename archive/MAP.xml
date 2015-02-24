@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods>
+	<id>
+		<RPTweaks site="http://pastehtml.com/view/cr72r0hhu.html" 
+		backupsite="https://web.archive.org/web/*/http://pastehtml.com/view/cr72r0hhu.html" 
+		wiki="NULL" ftbwiki="http://ftb.gamepedia.com/RedPower_Tweaks">
+			<MCARCHIVE-FOUR  mcversion="UNKNOWN">
+				<file status="officialdl">rptweaks-4.jar</file>
+			</MCARCHIVE-FOUR>
+		</RPTweaks>
+	</id>
+	<id-less>
+		<RedPower site="http://www.eloraam.com/download-redpower/" 
+		backupsite="https://web.archive.org/web/*/http://www.eloraam.com/download-redpower/"
+		wiki="http://integratedredstone.wikispaces.com" ftbwiki="http://ftb.gamepedia.com/RedPower_2">
+			<MCARCHIVE-TWO.MCARCHIVE-ZEROprMCARCHIVE-TWO status="confirmed" mcversion="1.8.1">
+			RedPowerArray-2.0pr2.zip
+			RedPowerArray-Server-2.0pr2
+			RedPowerCore-2.0pr2.zip
+			RedPowerCore-Server-2.0pr2.zip
+			RedPowerLighting-2.0pr2.zip
+			RedPowerLighting-Server-2.0pr2.zip
+			RedPowerLogic-2.0pr2.zip
+			RedPowerLogic-Server-2.0pr2.zip
+			RedPowerMachine-2.0pr2.zip
+			RedPowerMachine-Server-2.0pr2.zip
+			RedPowerWiring-2.0pr2.zip
+			RedPowerWiring-Server-2.0pr2.zip
+			RedPowerWorld-2.0pr2.zip
+			RedPowerWorld-Server-2.0pr2.zip
+			</MCARCHIVE-TWO.MCARCHIVE-ZEROprMCARCHIVE-TWO>
+		</RedPower>
+	</id-less>
+</mods>
